@@ -7,3 +7,11 @@ Some of the requirements that RSS-MATIX fulfills.
 2. RSS-fetch interval can be changed.
 3. Possible to add multiple recievers for feed notifications with SMTP (e-mail).
 4. Loggning of RSS-feeds history.
+
+
+# Known issues
+Some of the dependencies is not updated in requirements.txt
+
+
+# Info
+Running it on Python 3.11.19.
