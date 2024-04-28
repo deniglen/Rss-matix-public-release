@@ -1,0 +1,5 @@
+cryptography>=39.0.1
+customtkinter>=5.1.2
+darkdetect>=0.8.0
+feedparser>=6.0.10
+PIL
